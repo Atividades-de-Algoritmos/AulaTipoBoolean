@@ -1,5 +1,5 @@
 #autores:
-#  Islan Pereira de Oliveira
+#  Islan Pereira de Oliveira - Técnico Informática IFPB/Cajazeiras
 
 # Data: 03/09/2022
 
