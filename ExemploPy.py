@@ -9,7 +9,7 @@
 num1 = 5
 num2 = 5
 
-acumulador1 = (num1 == num2)      #Como são números iguais, serão true
+acumulador1 = (num1 == num2)      #Como são números iguais, será true
 acumulador2 = (acumulador1 + 0)
 
 print(type (acumulador1))         #Tipo boolean <class 'bool'>
@@ -22,7 +22,7 @@ print(type (acumulador2))         #Tipo inteiro
 numero1 = 5
 numero2 = 6
 
-receber1 = (numero1 == numero2)   #Como são números diferentes, serão false
+receber1 = (numero1 == numero2)   #Como são números diferentes, será false
 receber2 = (receber1 + 0)
 
 print(type (receber1))            #Tipo boolean <class 'bool'>
